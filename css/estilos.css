@@ -1,0 +1,144 @@
+#principal{
+width: 900px;
+height: auto; overflow: hidden;
+border: 0px solid #000;
+margin: auto;
+
+}
+
+header{
+width: 900px;
+height: 100px;
+border: 0px solid #000;
+}
+
+#logo{
+width: 200px;
+height: 100px;
+border: 0px solid #000;
+float: left;
+}
+
+.titulo{
+margin-top: 25px;
+font-size: 25px;
+}
+
+.sub-titulo{
+font-size: 15px;
+margin-top: -20px;
+}
+
+.menu{
+width: 650px;
+height: 40px;
+border: 1px solid #ccc;
+float: right;
+margin-top: 30px;
+background:#CECEF6;
+}
+
+.menu ul{}
+.menu ul li{
+list-style: none;
+float: left;
+}
+
+.menu ul li a{
+text-decoration: none;
+padding: 10px 12px;
+border: 0px solid #ccc;
+color: white;
+}
+
+.menu ul li a:hover{
+background: #fff;
+color: #CECEF6;
+transition: background 1s, color 1s;
+}
+
+#estrella{
+margin-top: -15px;
+width: 900px;
+heigth: 250px;
+}
+
+#categorias{
+width: 900px;
+heigth: auto; overflow: hidden;
+border: 0px solid;
+margin-top: 15px;
+}
+
+.uno{
+width: 280px;
+height: auto; overflow: hidden;
+border: 1px solid #CECEF6;
+float: left;
+padding: 5px;
+text-align: center;
+color: #A9BCF5;
+}
+
+.par{
+color: #424242;
+text-align: justify;
+}
+
+.dos{
+margin-left: 10px;
+margin-right: 12px;
+}
+
+.comprar{
+text-decoration: none;
+border: 1px solid #CECEF6;
+padding: 10px 20px 10px 20px;
+margin: 10px;
+}
+
+.comprar:hover{
+background: #CECEF6;
+color: #fff;
+transition: background 1s, color 1s;
+}
+
+#col{
+width: 900px;
+height: auto; overflow: hidden;
+border: 0px solid #CECEF6;
+margin-top: 10px;
+text-align: center;
+color: #A9BCF5;
+}
+
+#pul{
+width: 585px;
+height: auto; overflow: hidden;
+border: 1px solid #CECEF6;
+float: left;
+padding: 5px; 
+}
+
+.img{
+margin-right: 7px;
+margin-bottom: 7px;
+}
+
+#ani{
+width: 290px;
+height: auto; overflow: hidden;
+border: 1px solid #CECEF6;
+float: right;
+}
+
+footer{
+width: 900px;
+height: 100px;
+text-align: center;
+color: #424242;
+}
+
+#fotter p{
+width: 500px;
+}

@@ -1,0 +1,105 @@
+#principal{
+width: 900px;
+height: auto; overflow: hidden;
+border: 0px solid #CECEF6;
+margin: auto;
+}
+
+header{
+width: 900px;
+height: 100px;
+border: 0px solid #FFF;
+}
+
+#logo{
+width: 200px;
+height: 100px;
+border: 0px solid #FFF;
+float: left;
+}
+
+.titulo{
+margin-top: 25px;
+font-size: 25px;
+}
+
+.sub-titulo{
+font-size: 15px;
+margin-top: -20px;
+}
+
+.menu{
+width: 150px;
+height: 40px;
+border: 1px solid #fff;
+float: right;
+margin-top: 30px;
+background:#fff;
+}
+
+.menu ul{}
+.menu ul li{
+list-style: none;
+float: left;
+}
+
+.menu ul li a{
+text-decoration: none;
+padding: 10px 12px;
+border: 0px solid #fff;
+color:#CECEF6;
+}
+
+.menu ul li a:hover{
+background: #CECEF6;
+color: #fff;
+transition: background 1s, color 1s;
+}
+
+#estrella{
+margin-top: -15px;
+width: 900px;
+heigth: 250px;
+}
+
+
+#categorias{
+width: auto; overflow: hidden;
+heigth: auto; overflow: hidden;
+border: 0px solid;
+margin-top: 15px;
+}
+
+.uno{
+width: auto; overflow: hidden;
+height: auto; overflow: hidden;
+border: 1px solid #fff;
+float: center;
+padding: 10px;
+text-align: center;
+color: #fff;
+}
+
+.comprar{
+text-decoration: none;
+border: 1px solid #fff;
+padding: 10px 20px 10px 20px;
+margin: 10px;
+}
+
+.comprar:hover{
+background: #fff;
+color: #CECEF6;
+transition: background 1s, color 1s;
+}
+
+footer{
+width: 900px;
+height: 100px;
+text-align: center;
+color: #fff;
+}
+
+#fotter p{
+width: 500px;
+}
